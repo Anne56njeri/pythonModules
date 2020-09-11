@@ -1,0 +1,1 @@
+def Knap(a,b)

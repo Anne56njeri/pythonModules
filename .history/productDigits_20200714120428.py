@@ -1,0 +1,2 @@
+def product(num):
+    result = 

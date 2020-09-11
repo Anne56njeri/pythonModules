@@ -1,0 +1,2 @@
+def nums(nums):
+    

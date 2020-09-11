@@ -1,0 +1,1 @@
+def word(pattern,str)

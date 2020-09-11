@@ -1,0 +1,2 @@
+def fractions(numerator,denominator):
+    

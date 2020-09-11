@@ -1,0 +1,10 @@
+
+
+def square_digits(num):
+
+    square = []
+    s = [str(i) for i in num]
+    for n in range(len(num)):
+        square.append()
+    print(square) 
+square_digits(9119)       

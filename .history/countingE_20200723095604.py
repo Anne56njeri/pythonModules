@@ -1,0 +1,1 @@
+def counting(A,m):

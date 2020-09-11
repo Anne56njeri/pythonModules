@@ -1,0 +1,2 @@
+def equi(A):
+equi([])    

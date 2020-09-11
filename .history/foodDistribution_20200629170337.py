@@ -1,0 +1,2 @@
+def food(arr):
+    

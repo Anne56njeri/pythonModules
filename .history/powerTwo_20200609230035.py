@@ -1,0 +1,3 @@
+# so 
+def power(nums):
+    

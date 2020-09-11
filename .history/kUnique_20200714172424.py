@@ -1,0 +1,3 @@
+def unique(str):
+    # getting th number of unique char 
+    num = int(str[0])

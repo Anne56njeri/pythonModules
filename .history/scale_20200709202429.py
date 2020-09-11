@@ -1,0 +1,2 @@
+def balancing(strArr):
+    sides = 

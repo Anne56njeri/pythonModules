@@ -1,0 +1,2 @@
+
+def Insert(nums,n):

@@ -1,0 +1,3 @@
+def counting(arr):
+
+counting()        

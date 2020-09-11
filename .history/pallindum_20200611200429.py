@@ -1,0 +1,21 @@
+# sort the array
+import math 
+
+def pallindum(nums):
+    nums2 = sorted(nums)
+    
+    large = max(nums2)
+    big = []
+    firs
+
+    for n in nums:
+        if large == n:
+            big.append(n)
+
+    
+    
+   
+    print(big)
+
+
+pallindum([3,1,4,4])    

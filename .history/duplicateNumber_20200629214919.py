@@ -1,0 +1,3 @@
+def duplicate(arr):
+
+duplicate([])    

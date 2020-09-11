@@ -1,0 +1,3 @@
+def fizz(num):
+    newNumber = []
+    

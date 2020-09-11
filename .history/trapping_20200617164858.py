@@ -1,0 +1,2 @@
+def trap(arr):
+    fo

@@ -1,0 +1,2 @@
+def minCost(days,costs):
+    

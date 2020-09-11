@@ -1,0 +1,2 @@
+def Hamming(x,y):
+    
